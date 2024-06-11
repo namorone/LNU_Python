@@ -1,0 +1,5 @@
+Surname,id,sum in ac
+Masnyk, 12, 400
+Borovets, 15, 600
+Zelenko, 9, 350
+Kaparys, 6, 360

@@ -1,0 +1,4 @@
+tariff class,payment
+6,400
+7,600
+9,700

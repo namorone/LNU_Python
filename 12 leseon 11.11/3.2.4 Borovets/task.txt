@@ -1,0 +1,6 @@
+id_task,task,a,b,c
+1,Grafik,12,4,4
+2,Derivative,7,10,3
+3,LaguerreFunction,10,5,5
+4,Classes,5,5,10
+5,Pandas,5,4,11

@@ -1,0 +1,5 @@
+Surname,Reg Number,pay per hour
+Masnyk, 3455398476, 40
+Borovets, 5479347498, 60
+Zelenko, 2097324870, 35
+Kaparys, 9873450825, 36

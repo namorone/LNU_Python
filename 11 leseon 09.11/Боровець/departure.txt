@@ -1,0 +1,4 @@
+department number,account number,weight,destination country code
+75,26743,10,2
+65,26382,8,3
+45,28901,2,1

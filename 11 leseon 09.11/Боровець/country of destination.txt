@@ -1,0 +1,4 @@
+destination country code,name,price for delivery 1KH
+1,Ukraine,50
+2,Poland,60
+3,Great Britain,70

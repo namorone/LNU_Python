@@ -1,0 +1,4 @@
+id_number,tariff class,surname
+21,6,Bochka
+23,7,Borovets
+26,9,Korol
